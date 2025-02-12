@@ -13,8 +13,6 @@ https://app.snowflake.com/jpujfls/qd31171/#/swiggy-fEkcwawxs
 4. [Snowflake Objects](#snowflake-objects)  
 5. [Data Loading and Transformation](#data-loading-and-transformation)  
 6. [Streamlit Dashboard](#streamlit-dashboard)  
-7. [How to Run Locally](#how-to-run-locally)  
-8. [License](#license)
 
 ---
 
