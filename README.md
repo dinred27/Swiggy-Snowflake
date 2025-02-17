@@ -38,8 +38,8 @@ Raw CSV Files → Stage_SCH Tables → MERGE → Clean_SCH Tables → MERGE → 
   - `snowflake-snowpark-python` (or `snowflake-connector-python`, depending on your approach)
 
 ## 4. Snowflake Objects
-1. **Warehouses**: Scripts define a warehouse named `ADHOC_WH`.  
-2. **Databases & Schemas**: `SANDBOX` database with multiple schemas: `STAGE_SCH`, `CLEAN_SCH`, `CONSUMPTION_SCH`.  
+1. **Warehouses**: Scripts define a warehouse named `SWIGGY_WH`.  
+2. **Databases & Schemas**: `SWIGGY` database with multiple schemas: `STAGE_SCH`, `CLEAN_SCH`, `CONSUMPTION_SCH`.  
 3. **Tables**: 
    - Stage tables mirror the raw CSV layout.  
    - Clean tables define typed columns.  
